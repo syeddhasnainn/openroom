@@ -6,6 +6,8 @@ A Lightroom-inspired photo editor that runs entirely in your browser. Built with
 
 OpenRoom brings professional photo editing capabilities to the browser, offering a Lightroom-like experience without requiring any software installation. It processes images using Rust code compiled to WebAssembly, delivering near-native performance for computationally intensive operations like noise reduction, sharpening, and tone curve adjustments.
 
+![OpenRoom Screenshot](assets/screenshot.png)
+
 ## Features
 
 ### Basic Adjustments
