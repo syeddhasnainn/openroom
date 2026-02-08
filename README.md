@@ -2,11 +2,11 @@
 
 A Lightroom-inspired photo editor that runs entirely in your browser. Built with Rust compiled to WebAssembly for fast image processing and React for the user interface.
 
+![OpenRoom Screenshot](assets/screenshot.png)
+
 ## Overview
 
 OpenRoom brings professional photo editing capabilities to the browser, offering a Lightroom-like experience without requiring any software installation. It processes images using Rust code compiled to WebAssembly, delivering near-native performance for computationally intensive operations like noise reduction, sharpening, and tone curve adjustments.
-
-![OpenRoom Screenshot](assets/screenshot.png)
 
 ## Features
 
